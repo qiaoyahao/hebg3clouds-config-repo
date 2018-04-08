@@ -1,1 +1,9 @@
-
+com:
+  kingtto:
+    sms:
+      url: http://sms.kingtto.com:9999/sms.aspx
+      account: coolercat
+      password: coolercat
+      user-id: 4614
+env: 
+  text: 300
