@@ -5,3 +5,5 @@ com:
       account: coolercat1
       password: coolercat
       user-id: 4614
+env: 
+  text: 103
